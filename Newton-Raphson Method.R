@@ -5,6 +5,7 @@
 rm(list = ls())
 
 #Options
+
 options(scipen = 999)
 options(digits =10)
 
