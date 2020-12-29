@@ -31,7 +31,6 @@ f1_b = eval(f1, list(x=upper))
 results <- data.frame(Iteration = numeric(maxiteration), x_a = numeric(maxiteration), x_b = numeric(maxiteration), x_m = numeric(maxiteration),
                       fx_a = numeric(maxiteration), fx_b = numeric(maxiteration), fx_c = numeric(maxiteration))
 
-
 #Compute
 
 {
