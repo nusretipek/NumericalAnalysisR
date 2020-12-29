@@ -40,6 +40,3 @@ for(i in 1:maxiteration){
    results[i,] <- list(i, value, NewX, f1_a, Df1_a)
    value <- NewX
    if(i == maxiteration){print(results)}}
-   
-   
-   
