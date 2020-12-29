@@ -20,7 +20,7 @@ upper <- 16
 maxiteration <- 20
 
 ##################################################################################
-# WARNING: Editting the following code may reuslt with crash! Use caution
+# WARNING: Editing the following code may reuslt with crash! Use caution
 ##################################################################################
 
 #Set Environment
