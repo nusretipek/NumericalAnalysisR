@@ -1,5 +1,6 @@
 # NumericalAnalysisR
 
+[![Check Status](https://img.shields.io/github/checks-status/nusretipek/NumericalAnalysisR/master?style=plastic)](https://img.shields.io/github/checks-status/nusretipek/NumericalAnalysisR/master?style=plastic)
 [![Lang Status](https://img.shields.io/github/languages/top/nusretipek/NumericalAnalysisR?style=plastic)](https://img.shields.io/github/languages/top/nusretipek/NumericalAnalysisR?style=plastic)
 
 ## Purpose
