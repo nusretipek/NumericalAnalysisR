@@ -31,7 +31,7 @@ f1_b <- eval(f1, list(x=upper))[1]
 if(f1_a*f1_b < 0){print("Continue with Method!")} else{print("Method cannot be used!")}
 
 ##################################################################################
-# WARNING: Editting the following code may reuslt with crash! Use caution
+# WARNING: Editing the following code may reuslt with crash! Use caution
 ##################################################################################
 
 Derivative <- D(xfunc, "x")
